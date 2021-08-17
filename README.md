@@ -1,3 +1,2 @@
-# ALX PROJECT
-## SECOND WEEK
-This is **Ayo** and this is my ALX project 
+# ALX ZERO DAY PROJECT
+## This is the second week of the project
